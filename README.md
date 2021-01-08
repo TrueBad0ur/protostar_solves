@@ -19,3 +19,5 @@ When I was solving these tasks, I was watching and reading a lot of info.
 <h2>#Notes</h2>
 
 Strange things about net 3 and 4. On some sites you can find source for 3, for 4 just a binary with assembly prologue and epilogue
+
+Some of the useful links are included into solution files
